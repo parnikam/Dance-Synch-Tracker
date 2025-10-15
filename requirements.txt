@@ -1,0 +1,6 @@
+streamlit==1.38.0
+opencv-python
+mediapipe
+numpy
+matplotlib
+moviepy
